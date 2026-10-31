@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5d2c57d-9634-46b9-92e1-910c311441d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markup/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 1/Practical1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 10/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 11/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 2/StringAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 3/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 4/TCPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 4/TCPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 8/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 9/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java practical.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ITMUR-Jerin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ITMUR-Jerin/Java-Practical.git",
+    "accountId": "b0d17f73-47f2-4096-8b69-ea4e6d692d83"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LSmvbnNZnsTx3RRhZiPAV1idxR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calculator.executor": "Run",
+    "Application.MatrixMultiplication.executor": "Run",
+    "Application.Practical1.executor": "Run",
+    "Application.StringAnimation.executor": "Run",
+    "Application.TCPClient.executor": "Run",
+    "Application.TCPServer.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/thoma/IdeaProjects/java practical/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TCPClient">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="java practical" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAnimation" />
+      <module name="java practical" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TCPClient" />
+      <module name="java practical" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TCPServer" />
+      <module name="java practical" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TCPClient" />
+        <item itemvalue="Application.TCPServer" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.StringAnimation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5d2c57d-9634-46b9-92e1-910c311441d0" name="Changes" comment="" />
+      <created>1793456076185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793456076185</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MatrixMultiplication.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
