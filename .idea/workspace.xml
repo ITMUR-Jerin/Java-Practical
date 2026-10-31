@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5d2c57d-9634-46b9-92e1-910c311441d0" name="Changes" comment="Add Java practical folders and programs" />
+    <list default="true" id="b5d2c57d-9634-46b9-92e1-910c311441d0" name="Changes" comment="Add Java practical folders and programs">
+      <change afterPath="$PROJECT_DIR$/Practical 8/CSVForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practical 8/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practical 8/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CSVForm.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
     "Application.Notepad.executor": "Run",
@@ -55,6 +60,7 @@
     "Application.StringAnimation.executor": "Run",
     "Application.TCPClient.executor": "Run",
     "Application.TCPServer.executor": "Run",
+    "Application.UserForm.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,7 +82,14 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UserForm">
+  <component name="RunManager" selected="Application.CSVForm">
+    <configuration name="CSVForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CSVForm" />
+      <module name="java practical" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Notepad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Notepad" />
       <module name="java practical" />
@@ -98,13 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TCPClient" />
-      <module name="java practical" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UserForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UserForm" />
       <module name="java practical" />
@@ -114,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CSVForm" />
         <item itemvalue="Application.UserForm" />
         <item itemvalue="Application.RMIClient" />
         <item itemvalue="Application.RMIServer" />
         <item itemvalue="Application.Notepad" />
-        <item itemvalue="Application.TCPClient" />
       </list>
     </recent_temporary>
   </component>
