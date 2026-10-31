@@ -81,7 +81,14 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StudentRegistrationPortal">
+  <component name="RunManager" selected="Application.BeanAdditionApp">
+    <configuration name="BeanAdditionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BeanAdditionApp" />
+      <module name="java practical" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CSVForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CSVForm" />
       <module name="java practical" />
@@ -91,13 +98,6 @@
     </configuration>
     <configuration name="RMIClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RMIClient" />
-      <module name="java practical" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RMIServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RMIServer" />
       <module name="java practical" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeanAdditionApp" />
         <item itemvalue="Application.StudentRegistrationPortal" />
         <item itemvalue="Application.CSVForm" />
         <item itemvalue="Application.UserForm" />
         <item itemvalue="Application.RMIClient" />
-        <item itemvalue="Application.RMIServer" />
       </list>
     </recent_temporary>
   </component>
