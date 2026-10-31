@@ -48,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BeanAdditionApp.executor": "Run",
     "Application.CSVForm.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.MatrixMultiplication.executor": "Run",
@@ -56,6 +57,7 @@
     "Application.RMIClient.executor": "Run",
     "Application.RMIServer.executor": "Run",
     "Application.StringAnimation.executor": "Run",
+    "Application.StudentCRUD.executor": "Run",
     "Application.StudentRegistrationPortal.executor": "Run",
     "Application.TCPClient.executor": "Run",
     "Application.TCPServer.executor": "Run",
@@ -81,7 +83,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BeanAdditionApp">
+  <component name="RunManager" selected="Application.StudentCRUD">
     <configuration name="BeanAdditionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BeanAdditionApp" />
       <module name="java practical" />
@@ -96,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RMIClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RMIClient" />
+    <configuration name="StudentCRUD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentCRUD" />
       <module name="java practical" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentCRUD" />
         <item itemvalue="Application.BeanAdditionApp" />
         <item itemvalue="Application.StudentRegistrationPortal" />
         <item itemvalue="Application.CSVForm" />
         <item itemvalue="Application.UserForm" />
-        <item itemvalue="Application.RMIClient" />
       </list>
     </recent_temporary>
   </component>
